@@ -1,5 +1,5 @@
 <div>
-  <!--header-->
+<!--header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 </div>
 
@@ -7,7 +7,7 @@
   <!--body-->
 
 ## :mag_right: Who is he? <br/>
-#### :bust_in_silhouette: My name is Hyeonsu, but you can call me Jay
+#### :bust_in_silhouette: My name is Hyeonsu, but you can call me Jay :grin:
 #### :file_folder: I aim to become a Backend Enginner.<br/>
 #### :mortar_board:I'm majoring in Computer Engineering, Kyungsung University(KSU)<br/>
 <br/>
