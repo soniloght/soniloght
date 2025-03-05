@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-## GitHub Stats
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniloght)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniloght)](https://github.com/anuraghazra/github-readme-stats)
