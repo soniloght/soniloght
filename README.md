@@ -47,6 +47,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniloght)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={soniloght})](https://solved.ac/{soniloght})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soniloght)](https://solved.ac/soniloght)
 
 </div>
