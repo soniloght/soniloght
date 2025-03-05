@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Time%20Is%20Money%20%F0%9F%A4%97)
 
   <!--
-  **soniloght/soniloght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears   on your GitHub profile.
+  **soniloght/soniloght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears   on your GitHub profile.-->
 
 </div>
 
