@@ -9,7 +9,7 @@
   <!--body-->
 
 ## :mag_right: Who is he? <br/>
-#### :bust_in_silhouette: My name is Hyeonsu, but you can call me Jay :grin:
+#### :bust_in_silhouette: I'm Hyeonsu, but you can call me Jay :grin:
 #### :file_folder: I aim to become a Backend Enginner.<br/>
 #### :mortar_board:I'm majoring in Computer Engineering, Kyungsung University(KSU)<br/>
 <br/>
