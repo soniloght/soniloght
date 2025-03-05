@@ -1,23 +1,19 @@
 <div>
   <!--header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Time%20Is%20Money%20%F0%9F%A4%97)
-
-  <!--
-  **soniloght/soniloght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears   on your GitHub profile.-->
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 </div>
 
 <div>
   <!--body-->
 
-##:mag_right: Who is he?
-####:bust_in_silhouette: My name is Hyeonsu, but you can call me Jay
-####:file_folder: I aim to become a Backend Enginner.<br/>
-####:mortar_board:I'm majoring in Computer Engineering, Kyungsung University(KSU)<br/>
+## :mag_right: Who is he? <br/>
+#### :bust_in_silhouette: My name is Hyeonsu, but you can call me Jay
+#### :file_folder: I aim to become a Backend Enginner.<br/>
+#### :mortar_board:I'm majoring in Computer Engineering, Kyungsung University(KSU)<br/>
 <br/>
 <br/>
 
-##:computer: Studying..
+## :computer: Studying..
 ### Workspace
 <!--MacBook Pro M1-->
 ![macbook](https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
